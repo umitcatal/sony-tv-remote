@@ -16,7 +16,7 @@
 function openMyPage() {
   console.log("injecting");
   browser.tabs.create({
-    "url": "/sony-tv.html"
+    "url": "/index.html"
   });
 }
 
